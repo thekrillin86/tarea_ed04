@@ -1,13 +1,14 @@
 package Cuentas;
-
+/**Iniciando la documentación del código*/
 public class CCuenta {
 
-
+/** Estos son los atributos creados para el presente código*/
     private String nombre;
     private String cuenta;
     private double saldo;
     private double tipoInterés;
 
+    /** Aqui se han creado los getter y setter del código*/
     public CCuenta()
     {
     }
